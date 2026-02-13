@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  font: arial;
+  background: linear-gradient(to bottom, orange, purple);
+  background-attachment: fixed;
+}
+.h1{
+  color: red;
+  text-align: center;
+  margin: 15px;
+  font-size: 30px;
+}
+.first{
+  text-align: center;
+  text-align: left;
+}
+.second{
+  text-align: center;
+  text-align: left;
+}
+.one{
+  margin:10px;
+  height:20px;
+  border-radius: 8px;
+  border-color: black;
+  border-style: double;
+  padding: 5px;
+}
+.twoo{
+  font-size: 20px;
+  margin-left:50px;
+}
+.first input:focus{
+  outline: 0;
+}
+.second input:focus{
+  outline: 0;
+}
+.two{
+  margin:10px;
+  height:20px;
+  border-radius: 8px;
+  border-color: black;
+  border-style: double;
+  padding: 5px;
+}
+.onee{
+  font-size: 20px;
+  margin-left:50px;
+}
+p{
+  padding: 10px;
+  font-size: 20px;
+  
+}
+.button{
+  padding:10px;
+  margin:5px;
+}
+.add,.sub,.clear,.mult,.div{
+  font-size:20px;
+  background: white;
+  color: black;
+}
+
